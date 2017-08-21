@@ -1,0 +1,96 @@
+ .common_bg
+{
+    background-color:deepskyblue;
+    margin-top: 15px;
+}
+.item-one
+{
+     background-color:darkslategray;
+}
+.item-two
+{
+     background-color:teal;
+     height: 150px;
+     margin-top: 15px;
+}
+.padding_right_disable
+{
+    padding-right: 0px;
+}
+.header_height
+{
+    min-height:100px;
+  
+}
+.brand,.global_nav,.tools
+{
+    height:70px;
+    background-color:darkslategray;
+    margin-top: 15px;
+    margin-bottom: 15px;
+     color: white;
+    text-align: center;
+}
+
+.hero_height
+{
+    min-height: 150px;
+    
+}
+.add
+{
+    color: white;
+    text-align: center;
+}
+.hero_feautre,.call_to_action
+{
+    height: 100px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: aliceblue;
+    text-align: center;
+}
+
+
+.article_height
+{
+    min-height: 500px;
+}
+.article_feature,.article_listing
+{
+    height: 430px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+     color: white;
+    text-align: center;
+}
+.sidebar_content
+{
+    height: 430px;
+    margin-top: 50px;
+    margin-bottom: 20px; 
+     color: white;
+    text-align: center;
+}
+
+.sidebar_feature
+{
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 1px;
+    
+}
+
+.footer_height
+{
+    min-height: 80px;
+    margin-bottom:20px;
+}
+
+.copyright
+{
+    height: 70px;
+    margin-top: 5px;
+    color: white;
+    text-align: center;
+}
